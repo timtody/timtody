@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Julius! I'm a PhD student in artificial intelligence at INRIA, Bordeaux.
+### Hi there 👋, I'm Julius! 
+
+I'm a PhD student in artificial intelligence at INRIA, Bordeaux. I work on intrinsically motivated multi-agent systems.
 
 <br>
 
