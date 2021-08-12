@@ -2,8 +2,6 @@
 
 I'm a PhD student in artificial intelligence at INRIA, Bordeaux. I work on intrinsically motivated multi-agent systems.
 
-<br>
-
 ### Connect with me
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/maildotru.svg" />][email]
