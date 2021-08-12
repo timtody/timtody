@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Julius! I'm a PhD student in artificial intelligence at INRIA, Bordeaux.
+
+<br>
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][https://www.linkedin.com/in/julius-taylor-478b7913a/]
+
 
 <!--
 **timtody/timtody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
