@@ -13,7 +13,7 @@ My work sits at the intersection of cloud engineering, AI and product building. 
 ## What I'm working on otherwise
 - I'm learning rust!
 
-## What is timtody?
+## Who or what is timtody?
 Timtody (from Perl’s motto “TMTOWTDI”) is basically the idea that in Perl there are a million ways to solve the same problem. I don't know any Perl, luckily.
 
 
