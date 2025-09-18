@@ -2,7 +2,7 @@
 I’m a Senior Cloud Engineer & Head of Data & AI at Thinkport (Frankfurt).
 I lead our data & AI division, where I help clients design and scale modern data platforms and machine learning systems.
 
-My work sits at the intersection of cloud engineering, AI and product building. We build data platforms, responsible AI frameworks and ML-powered platforms.
+My work sits at the intersection of cloud engineering, AI and product building. My team and I build data platforms, responsible AI frameworks and ML-powered platforms.
 
 ## What I’m working on at Thinkport
 - Building end-to-end Machine Learning platforms like [SIMPL](https://thinkport.digital/simpl-aws-machine-learning-fur-bayer/)
