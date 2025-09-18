@@ -1,32 +1,13 @@
-### Hi there 👋, I'm Julius! 
+# Hi there 👋, I'm Julius! 
+I’m a Senior Cloud Engineer & Head of Data & AI at Thinkport (Frankfurt).
+I lead our data & AI division, where I help clients design and scale modern data platforms and machine learning systems.
 
-I lead the business unit data and AI at [Thinkport](https://thinkport.digital/). Previously, I worked on multi-agent reinforcement learning systems at INRIA, Bordeaux.
+My work sits at the intersection of cloud engineering, AI and product building. We build spark-on-Kubernetes, Snowflake pipelines, responsible AI frameworks and LLM-powered SaaS Software.
 
-### 📫 Connect with me
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/maildotru.svg" />][email]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
+## What I’m working on
+	•	Delivering large-scale data platform projects (Spark, Kubernetes, Airflow, Snowflake)
+	•	Building AI SaaS products
+	•	Exploring responsible AI governance & agent architectures
+	•	Growing a cloud/data team and shaping Thinkport’s AI strategy
 
-
-<!--
-**timtody/timtody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[linkedin]: https://www.linkedin.com/in/julius-taylor-478b7913a/
-[email]: mailto:juliustaylor@protonmail.com
-[twitter]: https://twitter.com/jgstaylor
-
-### Languages and tools
-Python, PyTorch, TensorFlow, JavaScript, React, Node, SQL, matplotlib, pandas, seaborn, NumPy, deep learning, reinforcement learning, multi-agent systems, RNNs, NLP, docker, cloud, data science
+(LinkedIn)[https://www.linkedin.com/in/julius-taylor-478b7913a] • (Email)[hello@julius.pm] • (Twitter)[https://x.com/jgstaylor]
