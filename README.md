@@ -10,4 +10,4 @@ My work sits at the intersection of cloud engineering, AI and product building. 
 	•	Exploring responsible AI governance & agent architectures
 	•	Growing a cloud/data team and shaping Thinkport’s AI strategy
 
-[LinkedIn](https://www.linkedin.com/in/julius-taylor-478b7913a) • [Email](hello@julius.pm) • [Twitter](https://x.com/jgstaylor)
+[LinkedIn](https://www.linkedin.com/in/julius-taylor-478b7913a) • [Email](mailto:hello@julius.pm) • [Twitter](https://x.com/jgstaylor)
