@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Julius!
-I’m a Senior Cloud Engineer & Head of Data & AI at Thinkport (Frankfurt).
-I lead our data & AI division, where I help clients design and scale modern data platforms and machine learning systems.
+I fell in love with neural networks in 2016. I worked in robotics and multi-agent reinforcement learning, and then focused on the systems around models.
 
-My work sits at the intersection of cloud engineering, AI and product building. My team and I build data platforms, responsible AI frameworks and ML-powered platforms.
+## What I've worked on
+Multi-agent RL and emergent communication My academic focus (BSc and MSc at FIAS / Goethe University Frankfurt), and still the thing I find most interesting: what happens when independent learners have to coordinate, and what kind of communication protocols fall out of that pressure. Peer-reviewed publication at AAMAS.
 
-## What I’m working on at Thinkport
-- Building end-to-end Machine Learning platforms like [SIMPL](https://thinkport.digital/simpl-aws-machine-learning-fur-bayer/)
-- Delivering large-scale data platform projects (Spark, Kubernetes, Airflow, Snowflake)
-- Exploring responsible AI governance & agent architectures
-- Growing a [data engineering team]([https://thinkport.netlify.app/solutions/data-platforms/](https://thinkport.netlify.app/kompetenzen/data-und-ai/) and shaping Thinkport’s AI strategy
+Robotics and representation learning Simulation-based experiments with PyRep and CoppeliaSim — manipulation tasks, learned visual representations, and the question of how much structure you need to impose versus how much the agent can discover. Convolutional architectures throughout.
+
+End-to-end ML platform, agrochemical domain Built and architected a full platform: data ingestion, feature and experiment management, training, deployment, monitoring. Less about any single model than about making the path from raw data to a served prediction reproducible for a team that wasn't going to babysit it.
+
+Agentic RAG systems Retrieval pipelines with agents doing the planning and decomposition rather than a fixed chain — including in regulated environments where provenance and auditability aren't optional. Currently interested in context aggregation as the real bottleneck for coding agents.
 
 ## What I'm working on otherwise
 - I'm learning rust!
