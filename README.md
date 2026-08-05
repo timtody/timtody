@@ -11,7 +11,7 @@ End-to-end ML platform, agrochemical domain Built and architected a full platfor
 Agentic RAG systems Retrieval pipelines with agents doing the planning and decomposition rather than a fixed chain — including in regulated environments where provenance and auditability aren't optional. Currently interested in context aggregation as the real bottleneck for coding agents.
 
 ## Background
-BSc and MSc with strong focus on image recognition and reinforcement learning at [FIAS](https://fias.institute/). Worked as Senior ML Engineer, Data Architect, and Business Unit Lead. Currently in financial services consulting, working on AI solutions in credit, payments, and securities.
+BSc and MSc with strong focus on image recognition and reinforcement learning at [FIAS](https://fias.institute/). Worked as ML Engineer, Data Engineer, and led a team impplementing an E2E ML platform in pharma. Currently in financial services consulting, working on AI solutions in credit, payments, and securities.
 
 Mostly Python. Comfortable in the infrastructure layer. Happy to talk about RL, training at scale, or why your retrieval system isn't retrieving.
 ## What I'm working on otherwise
